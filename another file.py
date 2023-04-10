@@ -1,0 +1,2 @@
+#code jadid
+print('dorood')
